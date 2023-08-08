@@ -23,10 +23,6 @@
   📫 Send a raven to: <a href="mailto:ay.belkacem@gmail.com">ay.belkacem@gmail.com</a>
 </p>
 
-### 📚 Chronicles of Wisdom 📚
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="center">Join the Quest:</h3>
 <p align="center">
   <a href="https://twitter.com/ayblkcm"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" /></a>
