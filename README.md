@@ -61,6 +61,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ay-bkm&theme=dark" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ay-bkm&theme=rogue" alt="Activity Graph" />
