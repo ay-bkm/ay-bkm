@@ -1,10 +1,10 @@
-<!-- Welcome to the Realm of Code Magic! -->
+<!-- Welcome to the Code Carnival! -->
 
-<h1 align="center">🎩 Greetings, Traveler! I'm Ayoub 🪄</h1>
-<h3 align="center">🧙‍♂️ Master of the Digital Arcane Arts 🌟</h3>
+<h1 align="center">Hey there, I'm Ayoub! 👋</h1>
+<h3 align="center">Crafting Digital Wonders as a Software Sorcerer 🪄</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ay-bkm&color=purple&style=flat&label=Visits" alt="Profile Visits" />
+  <img src="https://komarev.com/ghpvc/?username=ay-bkm&color=brightgreen&style=flat&label=Profile+Visitors" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -12,20 +12,16 @@
 </p>
 
 <p align="center">
-  🌱 Currently brewing spells with <strong>Python Elixirs 🐍</strong> and crafting <strong>Web Enchantments 🌐</strong>
+  🌱 Currently in the midst of mastering the spells of <strong>Pythonic Potions 🐍</strong> and <strong>Coding Conjurations 🧙‍♂️</strong>
 </p>
 
 <p align="center">
-  📖 Chronicles of my adventures at [https://aybkm.medium.com](https://aybkm.medium.com)
+  📝 Conjuring knowledge at [https://aybkm.medium.com](https://aybkm.medium.com)
 </p>
 
 <p align="center">
-  📮 Send a raven to: <a href="mailto:ay.belkacem@gmail.com">ay.belkacem@gmail.com</a>
+  📫 Send a raven to: <a href="mailto:ay.belkacem@gmail.com">ay.belkacem@gmail.com</a>
 </p>
-
-### 📚 Grimoire of Knowledge 📚
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Join the Quest:</h3>
 <p align="center">
@@ -34,7 +30,7 @@
   <a href="https://medium.com/@aybkm"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="30" height="30" /></a>
 </p>
 
-<h3 align="center">My Magical Arsenal 🛠️</h3>
+<h3 align="center">Languages and Tools in My Cauldron 🧪:</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
@@ -66,4 +62,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ay-bkm&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ay-bkm&theme=rogue" alt="Activity Graph" />
