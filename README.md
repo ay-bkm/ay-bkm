@@ -64,11 +64,15 @@ fast, focused, and always from scratch.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ay-bkm&show_icons=true&theme=dark&hide_border=true&count_private=true" />&nbsp;&nbsp;<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay-bkm&layout=compact&theme=dark&hide_border=true" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ay-bkm&theme=github_dark" alt="GitHub Stats" />&nbsp;<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ay-bkm&theme=github_dark" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=ay-bkm&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=ay-bkm&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+![ay-bkm's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ay-bkm&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
