@@ -4,7 +4,7 @@
 
 <br/>
 
-**`Full-Stack Builder · LVL 26 · Casablanca, Morocco`**
+**`Full-Stack Builder · Casablanca, Morocco`**
 
 <br/>
 
