@@ -1,64 +1,74 @@
 <div align="center">
 
-<!-- Visitor Badge -->
-<img src="https://komarev.com/ghpvc/?username=ay-bkm&color=brightgreen&style=flat&label=Profile+Visitors" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ay-bkm&color=brightgreen&style=flat-square&label=visitors" />
 
-<!-- Name & Title -->
-# Hey there, I'm Ayoub! 👋
-### Crafting Digital Wonders as a Software Sorcerer 🪄
+<br/><br/>
 
-<!-- Status badges -->
-![Learning](https://img.shields.io/badge/🌱_Learning-Pythonic_Potions_🐍-2ea44f?style=flat-square)
-![Coding](https://img.shields.io/badge/🔮_Conjuring-Coding_Spells-7a39bb?style=flat-square)
-![Writing](https://img.shields.io/badge/📝_Writing_at-aybkm.medium.com-black?style=flat-square&logo=medium&logoColor=white)
+# Hey, I'm Ayoub 👋
 
-<!-- Socials -->
-<a href="https://twitter.com/ayblkcm"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://instagram.com/aybkm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://medium.com/@aybkm"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-<a href="mailto:ay.belkacem@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+**Builder & Digital Entrepreneur from Morocco 🇲🇦**
 
-</div>
+<br/>
 
----
+I build Chrome extensions, monetized websites, and digital products —
+fast, focused, and always from scratch.
 
-## 🧪 Languages & Tools in My Cauldron
+<br/>
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="40" height="40"/>
+[![Website](https://img.shields.io/badge/aybkm.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://aybkm.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayblkcm)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aybkm)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aybkm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay.belkacem@gmail.com)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🔧 What I Build
+
+| | |
+|---|---|
+| 🧩 **Browser Extensions** | Privacy-first, zero-framework tools that feel native to your browser |
+| 🌐 **Websites** | Landing pages, product sites, and AdSense-optimized content platforms |
+| 📦 **Digital Products** | Downloadable tools & guides sold on Gumroad and Payhip |
+
+---
+
+## ⚡ Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ay-bkm&show_icons=true&theme=dark&hide_border=true" alt="Ayoub's GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay-bkm&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
 </div>
 
+---
+
+## 📊 Stats
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ay-bkm&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ay-bkm&show_icons=true&theme=dark&hide_border=true&count_private=true" />&nbsp;&nbsp;<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay-bkm&layout=compact&theme=dark&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ay-bkm&theme=dark&hide_border=true" />
 
 </div>
 
@@ -66,6 +76,8 @@
 
 <div align="center">
 
-📝 Writing at **[aybkm.medium.com](https://aybkm.medium.com)** &nbsp;•&nbsp; 📫 Reach me at **[ay.belkacem@gmail.com](mailto:ay.belkacem@gmail.com)**
+**Done beats perfect — always.**
+
+🌐 [aybkm.com](https://aybkm.com) &nbsp;•&nbsp; 📝 [aybkm.medium.com](https://aybkm.medium.com) &nbsp;•&nbsp; 📫 [ay.belkacem@gmail.com](mailto:ay.belkacem@gmail.com)
 
 </div>
