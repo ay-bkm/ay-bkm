@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Ayoub+%F0%9F%91%8B;Builder+%26+Digital+Entrepreneur;Shipping+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;aybkm.com)](https://aybkm.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ayoub+%F0%9F%91%8B;Builder+%26+Digital+Entrepreneur;Shipping+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;aybkm.com)](https://aybkm.com)
 
 <br/>
 
@@ -67,51 +67,21 @@
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-
-> ⚙️ Setup required — run this GitHub Action once, then this becomes a live animated section.
-
-<details>
-<summary>Click to see the GitHub Action setup</summary>
-
-Create `.github/workflows/snake.yml` in your `ay-bkm` repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ay-bkm
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
+## 🌊 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ay-bkm/ay-bkm/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ay-bkm/ay-bkm/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ay-bkm/ay-bkm/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ay-bkm&theme=react-dark&hide_border=true&area=true&color=00ff88&line=00ff88&point=ffffff)
+
+</div>
+
+---
+
+## 🎲 RANDOM DEV JOKE
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&hideBorder)
 
 </div>
 
@@ -127,7 +97,7 @@ jobs:
 
 ---
 
-## 💬 RANDOM DEV QUOTE
+## 💡 THOUGHT OF THE DAY
 
 <div align="center">
 
