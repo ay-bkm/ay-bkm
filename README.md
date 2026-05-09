@@ -1,31 +1,30 @@
 <div align="center">
 
-<!-- Dynamic typing SVG — changes live -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ayoub+%F0%9F%91%8B;Builder+%26+Digital+Entrepreneur;Shipping+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;aybkm.com)](https://aybkm.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Ayoub+%F0%9F%91%8B;Builder+%26+Digital+Entrepreneur;Shipping+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;aybkm.com)](https://aybkm.com)
 
 <br/>
 
-**`Full-Stack Builder · Casablanca, Morocco`**
+**`Full-Stack Builder · LVL 26 · Casablanca, Morocco`**
 
 <br/>
 
-[![Website](https://img.shields.io/badge/PLAY_NOW-aybkm.com-00ff88?style=for-the-badge&logo=safari&logoColor=black)](https://aybkm.com)
-[![Twitter](https://img.shields.io/badge/FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayblkcm)
-[![Instagram](https://img.shields.io/badge/FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aybkm)
-[![Medium](https://img.shields.io/badge/READ-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aybkm)
-[![Email](https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay.belkacem@gmail.com)
+[![Website](https://img.shields.io/badge/aybkm.com-00ff88?style=for-the-badge&logo=safari&logoColor=black)](https://aybkm.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayblkcm)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aybkm)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aybkm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay.belkacem@gmail.com)
 
 </div>
 
 ---
 
-## 🎮 ACTIVE QUESTS
+## 🎮 QUESTS
 
-| STATUS | QUEST | OBJECTIVE |
-|--------|-------|-----------|
-| `🔥 GRINDING` | **Browser Extensions** | Privacy-first, zero-framework tools |
-| `⚡ GRINDING` | **Web Products** | AdSense sites & monetized content platforms |
-| `✅ SHIPPED` | **Digital Products** | Tools & guides live on Gumroad & Payhip |
+| QUEST | OBJECTIVE |
+|-------|-----------|
+| **Browser Extensions** | Privacy-first, zero-framework tools |
+| **Web Products** | AdSense sites & monetized content platforms |
+| **Digital Products** | Tools & guides live on Gumroad & Payhip |
 
 ---
 
@@ -58,21 +57,67 @@
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ay-bkm&theme=github_dark" alt="GitHub Stats" />&nbsp;<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ay-bkm&theme=github_dark" alt="Top Languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ay-bkm&theme=github_dark" />&nbsp;<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ay-bkm&theme=github_dark" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=ay-bkm&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ay-bkm&theme=github-compact&hide_border=true&area=true)
+<img src="https://streak-stats.demolab.com/?user=ay-bkm&theme=dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## 🐍 CONTRIBUTION SNAKE
+
+> ⚙️ Setup required — run this GitHub Action once, then this becomes a live animated section.
+
+<details>
+<summary>Click to see the GitHub Action setup</summary>
+
+Create `.github/workflows/snake.yml` in your `ay-bkm` repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ay-bkm
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ay-bkm/ay-bkm/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ay-bkm/ay-bkm/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ay-bkm/ay-bkm/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🏆 TROPHIES
 
 <div align="center">
 
@@ -82,9 +127,11 @@
 
 ---
 
+## 💬 RANDOM DEV QUOTE
+
 <div align="center">
 
-[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
