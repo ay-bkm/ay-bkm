@@ -1,17 +1,11 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ay-bkm&color=00ff88&style=flat-square&label=visitors" />
-
-<br/><br/>
-
-# `> Hey, I'm Ayoub 👋`
-
-**Builder & Digital Entrepreneur · Morocco 🇲🇦 · LVL 26**
+<!-- Dynamic typing SVG — changes live -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ayoub+%F0%9F%91%8B;Builder+%26+Digital+Entrepreneur;Shipping+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;aybkm.com)](https://aybkm.com)
 
 <br/>
 
-I build Chrome extensions, monetized websites, and digital products —  
-fast, focused, and always from scratch.
+**`Full-Stack Builder · Casablanca, Morocco`**
 
 <br/>
 
@@ -29,9 +23,9 @@ fast, focused, and always from scratch.
 
 | STATUS | QUEST | OBJECTIVE |
 |--------|-------|-----------|
-| `⚔️ IN PROGRESS` | **Browser Extensions** | Privacy-first, zero-framework tools |
-| `🌐 IN PROGRESS` | **Web Products** | AdSense sites & monetized content platforms |
-| `📦 COMPLETED` | **Digital Products** | Tools & guides shipped on Gumroad & Payhip |
+| `🔥 GRINDING` | **Browser Extensions** | Privacy-first, zero-framework tools |
+| `⚡ GRINDING` | **Web Products** | AdSense sites & monetized content platforms |
+| `✅ SHIPPED` | **Digital Products** | Tools & guides live on Gumroad & Payhip |
 
 ---
 
@@ -80,12 +74,19 @@ fast, focused, and always from scratch.
 
 ## 🏆 ACHIEVEMENTS
 
-| | |
-|---|---|
-| 🏆 **1,308** | Total Contributions |
-| 🔥 **7 Days** | Longest Streak |
-| 🚀 **2019** | Building in public since |
-| 🌍 **Live** | Products shipped to real users |
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ay-bkm&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ---
 
