@@ -1,41 +1,41 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ay-bkm&color=brightgreen&style=flat-square&label=visitors" />
+<img src="https://komarev.com/ghpvc/?username=ay-bkm&color=00ff88&style=flat-square&label=visitors" />
 
 <br/><br/>
 
-# Hey, I'm Ayoub 👋
+# `> Hey, I'm Ayoub 👋`
 
-**Builder & Digital Entrepreneur from Morocco 🇲🇦**
+**Builder & Digital Entrepreneur · Morocco 🇲🇦 · LVL 26**
 
 <br/>
 
-I build Chrome extensions, monetized websites, and digital products —
+I build Chrome extensions, monetized websites, and digital products —  
 fast, focused, and always from scratch.
 
 <br/>
 
-[![Website](https://img.shields.io/badge/aybkm.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://aybkm.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayblkcm)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aybkm)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aybkm)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay.belkacem@gmail.com)
+[![Website](https://img.shields.io/badge/PLAY_NOW-aybkm.com-00ff88?style=for-the-badge&logo=safari&logoColor=black)](https://aybkm.com)
+[![Twitter](https://img.shields.io/badge/FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayblkcm)
+[![Instagram](https://img.shields.io/badge/FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aybkm)
+[![Medium](https://img.shields.io/badge/READ-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aybkm)
+[![Email](https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay.belkacem@gmail.com)
 
 </div>
 
 ---
 
-## 🔧 What I Build
+## 🎮 ACTIVE QUESTS
 
-| | |
-|---|---|
-| 🧩 **Browser Extensions** | Privacy-first, zero-framework tools that feel native to your browser |
-| 🌐 **Websites** | Landing pages, product sites, and AdSense-optimized content platforms |
-| 📦 **Digital Products** | Downloadable tools & guides sold on Gumroad and Payhip |
+| STATUS | QUEST | OBJECTIVE |
+|--------|-------|-----------|
+| `⚔️ IN PROGRESS` | **Browser Extensions** | Privacy-first, zero-framework tools |
+| `🌐 IN PROGRESS` | **Web Products** | AdSense sites & monetized content platforms |
+| `📦 COMPLETED` | **Digital Products** | Tools & guides shipped on Gumroad & Payhip |
 
 ---
 
-## ⚡ Stack
+## 🧰 INVENTORY
 
 <div align="center">
 
@@ -60,7 +60,7 @@ fast, focused, and always from scratch.
 
 ---
 
-## 📊 Stats
+## 📊 STATS BOARD
 
 <div align="center">
 
@@ -72,16 +72,27 @@ fast, focused, and always from scratch.
 
 <br/>
 
-![ay-bkm's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ay-bkm&theme=github-compact&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ay-bkm&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
 ---
 
+## 🏆 ACHIEVEMENTS
+
+| | |
+|---|---|
+| 🏆 **1,308** | Total Contributions |
+| 🔥 **7 Days** | Longest Streak |
+| 🚀 **2019** | Building in public since |
+| 🌍 **Live** | Products shipped to real users |
+
+---
+
 <div align="center">
 
-**Done beats perfect — always.**
+`> done beats perfect — always`
 
-🌐 [aybkm.com](https://aybkm.com) &nbsp;•&nbsp; 📝 [aybkm.medium.com](https://aybkm.medium.com) &nbsp;•&nbsp; 📫 [ay.belkacem@gmail.com](mailto:ay.belkacem@gmail.com)
+🌐 [aybkm.com](https://aybkm.com) &nbsp;·&nbsp; 📝 [aybkm.medium.com](https://aybkm.medium.com) &nbsp;·&nbsp; 📫 [ay.belkacem@gmail.com](mailto:ay.belkacem@gmail.com)
 
 </div>
